@@ -38,11 +38,5 @@ arrayQualityMetrics
 limma
 ggplot2
 
-
-# Author
-
-Mahmoud Ahmed Abohassan
-AI and Omics Research Internship (2025)
-Contact: mahmoudabohassan03@gmail.com
-
+install.packages(c("GEOquery", "affy", "arrayQualityMetrics", "limma", "ggplot2"))
 
